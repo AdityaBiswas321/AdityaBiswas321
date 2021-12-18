@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @AdityaBiswas321
-- 👀 I’m interested in Chemistry, Computer Science, and Business
-- 🌱 I’m currently learning business with technology, C++ with Oculus
-- 🔥 looking to collaborate on any new ideas
-- 📫 How to reach me: Adityabiswas1999@hotmail.com 
+- I’m @AdityaBiswas321
+
+Experience in:
+
+NextJS
+React
+Redux
+MongoDB
+NodeJS
+Javascript 
+CSS
+HTML
+
+Interested in:
+Ecommerce sites
+VR (Three.JS)
+
+
+adityabiswas1999@hotmail.com
 
 <!---
 AdityaBiswas321/AdityaBiswas321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
