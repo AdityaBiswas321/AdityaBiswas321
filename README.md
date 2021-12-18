@@ -1,17 +1,18 @@
-- I’m @AdityaBiswas321
+I’m @AdityaBiswas321
 
 Experience in:
 
-NextJS
-React
-Redux
-MongoDB
-NodeJS
-Javascript 
-CSS
-HTML
+-NextJS
+-React
+-Redux
+-MongoDB
+-NodeJS
+-Javascript 
+-CSS
+-HTML
 
 Interested in:
+
 Ecommerce sites
 VR (Three.JS)
 
