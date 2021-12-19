@@ -1,7 +1,7 @@
 
 **Experience:** 
 
-3 years
+2.5 years
 
 **Techstack:**
 
