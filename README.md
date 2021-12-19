@@ -1,7 +1,7 @@
 
 **Experience:** 
 
-2.5 years
+3 years
 
 **Techstack:**
 
@@ -17,7 +17,7 @@
 **Interested in:**
 
 - Ecommerce sites
-V- R (Three.JS)
+- VR (Three.JS)
 
 
 adityabiswas1999@hotmail.com
