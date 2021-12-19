@@ -1,4 +1,3 @@
-I’m @AdityaBiswas321
 
 **Experience:** 
 
@@ -6,19 +5,19 @@ I’m @AdityaBiswas321
 
 **Techstack:**
 
-NextJS
-React
-Redux
-MongoDB
-NodeJS
-Javascript 
-CSS3
-HTML5
+- NextJS
+- React
+- Redux
+- MongoDB
+- NodeJS
+- Javascript 
+- CSS3
+- HTML5
 
 **Interested in:**
 
-Ecommerce sites
-VR (Three.JS)
+- Ecommerce sites
+V- R (Three.JS)
 
 
 adityabiswas1999@hotmail.com
