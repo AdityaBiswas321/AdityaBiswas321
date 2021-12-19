@@ -1,6 +1,8 @@
 I’m @AdityaBiswas321
 
-3+ years experience in:
+**Experience:** 3 years
+
+**Techstack:**
 
 NextJS
 React
@@ -8,10 +10,10 @@ Redux
 MongoDB
 NodeJS
 Javascript 
-CSS
-HTML
+CSS3
+HTML5
 
-Interested in:
+**Interested in:**
 
 Ecommerce sites
 VR (Three.JS)
