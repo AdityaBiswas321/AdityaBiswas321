@@ -3,12 +3,12 @@
 
 B.Sc Chemistry
 
-**Technology Focus**
+**Technology Focus:**
 Datascience and Databases
 Computational Chemistry 
 Neural Networks
 
-**Laboratory Focus**
+**Laboratory Focus:**
 Analytical & Nuclear
 
 **Techstack:**
