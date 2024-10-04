@@ -13,7 +13,7 @@ Neural Networks
 
 **Laboratory Focus:**
 
-Analytical & Nuclear
+Analytical
 
 **Techstack:**
 - Python
