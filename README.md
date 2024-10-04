@@ -1,26 +1,24 @@
 
-**Experience:** 
+**Education:** 
 
-3 years
+B.Sc Chemistry
+
+**Technology Focus**
+Datascience and Databases
+Computational Chemistry 
+Neural Networks
+
+**Laboratory Focus**
+Analytical & Nuclear
 
 **Techstack:**
-
-- NextJS
-- React
-- Redux
-- MongoDB
-- NodeJS
-- Javascript 
-- CSS3
-- HTML5
-
-**Interested in:**
-
-- Ecommerce sites
-- VR (Three.JS)
-
-
-adityabiswas1999@hotmail.com
+- Python
+- Quantum Espresso
+- SQL and noSQL 
+- Javascript
+  
+**Contact:**
+abiswas@sfu.ca
 
 <!---
 AdityaBiswas321/AdityaBiswas321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
