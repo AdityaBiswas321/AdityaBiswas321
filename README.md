@@ -6,7 +6,9 @@ B.Sc Chemistry
 **Technology Focus:**
 
 Datascience and Databases
+
 Computational Chemistry 
+
 Neural Networks
 
 **Laboratory Focus:**
