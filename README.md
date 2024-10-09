@@ -11,18 +11,6 @@ Computational Chemistry
 
 Neural Networks
 
-**Laboratory Focus:**
-
-Analytical
-
-**Techstack:**
-- Python
-- Quantum Espresso
-- SQL and noSQL 
-- Javascript
-  
-**Contact:**
-abiswas@sfu.ca
 
 <!---
 AdityaBiswas321/AdityaBiswas321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
